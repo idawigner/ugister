@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822436992634",
+    "project_id": "ugister-ad",
+    "storage_bucket": "ugister-ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822436992634:android:1bc52e830af38cd864cdc3",
+        "android_client_info": {
+          "package_name": "com.example.ugister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822436992634-5tbr7i6qob4sj32j9tr150f1ve3ekmg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmDLR2RF_qlwO_Ah4Ib9rezPbqbPCSgTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822436992634-5tbr7i6qob4sj32j9tr150f1ve3ekmg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
